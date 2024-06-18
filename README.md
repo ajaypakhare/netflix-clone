@@ -46,14 +46,14 @@ To view the Netflix Clone locally, open the index.html file in your preferred we
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Contributing : **
+**Contributing :**
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to submit a pull request or open an issue. Please ensure your changes are in line with the project's overall design and 
 objectives.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Acknowledgements : **
+**Acknowledgements :**
 
 1. Inspired by the original Netflix design.
 2. Special thanks to the web development community for the continuous support and resources.
