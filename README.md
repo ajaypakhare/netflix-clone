@@ -18,7 +18,7 @@ This Netflix Clone project is designed to mimic the look and feel of the origina
 * **Pure HTML and CSS:** This project is built entirely with HTML and CSS, without any JavaScript or backend integration.
 
 * **CSS Grid and Flexbox:** Utilizes modern CSS techniques such as Grid and Flexbox for layout management.
-* 
+  
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 **Technologies Used :**
